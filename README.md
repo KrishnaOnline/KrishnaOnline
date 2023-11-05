@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your-profile-image-url" alt="Your Name">
+  <img src="https://avatars.githubusercontent.com/u/93475905?v=4" alt="Your Name">
 </p>
 
 <h1 align="center">Hi there 👋 I am KrishnaVamshiKusma</h1>
