@@ -1,7 +1,22 @@
-### Hi there 👋 I am KrishnaVamshiKusma
+<p align="center">
+  <img src="your-profile-image-url" alt="Your Name">
+</p>
 
-# 💫 About Me:
-🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff
+<h1 align="center">Hi there 👋 I am KrishnaVamshiKusma</h1>
+
+<h2 align="center">💫 About Me:</h2>
+<p align="center">
+  🔭 <strong>I’m currently working on</strong><br>Full Stack Web Application Projects
+</p>
+<p align="center">
+  👯 <strong>I’m looking to collaborate on</strong><br>Full Stack Projects
+</p>
+<p align="center">
+  🌱 <strong>I’m currently learning</strong><br>Data Structures and Algorithms
+</p>
+<p align="center">
+  💬 <strong>Ask me about</strong><br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff
+</p>
 
 
 # 🌐 Socials:
