@@ -1,4 +1,4 @@
-## Hi there 👋 I am KrishnaVamshiKusma
+## Hi there 👋 Iam Krishna Vamshi Kusuma
 
 # 💫 About Me:
 🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff
