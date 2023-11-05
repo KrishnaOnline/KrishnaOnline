@@ -3,7 +3,7 @@
 # 💫 About Me:
 🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff
 
-<br>
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishnavamshi.kusuma) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_krishnavamshi) 
@@ -11,7 +11,6 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krishnavamshi_1) 
 
-<br>
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,7 +47,6 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
 
-<br>
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaOnline&theme=midnight-purple&hide_border=false)<br/>
@@ -68,7 +66,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 
-<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=KrishnaOnline&icon=5&color=1)](https://visitcount.itsvg.in)
 
