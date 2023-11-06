@@ -1,7 +1,9 @@
 ## Hi 👋 Iam Krishna Vamshi Kusuma
 
+
 # 💫 About Me:
 🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff
+
 
 
 # 🌐 Socials:
@@ -10,6 +12,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_krishnavamshi) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishnavamshi.kusuma) 
+
 
 
 # 💻 Tech Stack:
@@ -47,6 +50,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  -->
+
+
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
