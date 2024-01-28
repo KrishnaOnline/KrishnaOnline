@@ -72,6 +72,10 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 
+<a href="https://github.com/KrishnaOnline">
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=highcontrast" />
+</a>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=KrishnaOnline&icon=5&color=1)](https://visitcount.itsvg.in)
 
