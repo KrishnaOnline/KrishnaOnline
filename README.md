@@ -72,22 +72,8 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 
-<h3> 🧑‍💻 &nbsp;Top Languages</h3>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaOnline&layout=compact&theme=react" />
-
-<h3> 📈 &nbsp;Commit Stats</h3>
-
 <a href="https://github.com/KrishnaOnline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrishnaOnline&show_icons=true&theme=react" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=KrishnaOnline&theme=react" alt="GitHub Streak" />
-
-</a>
-
-<br/>
-
-<a href="https://github.com/KrishnaOnline">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=react-dark" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=high-contrast" />
 </a>
 
 ---
