@@ -73,7 +73,7 @@
 -->
 
 <a href="https://github.com/KrishnaOnline">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=highcontrast" />
+  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=react-dark" />
 </a>
 
 ---
