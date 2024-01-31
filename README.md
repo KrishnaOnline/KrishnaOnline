@@ -7,11 +7,11 @@
 
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishnavamshikusuma) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Krishnavamshi_1) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_krishnavamshi) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/krishnavamshi.kusuma) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/krishnavamshikusuma) 
+[![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/Krishnavamshi_1) 
+[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://stackoverflow.com/users/20693132) 
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/the_krishnavamshi) 
+<!-- [![Facebook](https://skillicons.dev/icons?i=facebook&theme=light)](https://facebook.com/krishnavamshi.kusuma)  -->
 
 
 
