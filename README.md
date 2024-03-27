@@ -1,4 +1,5 @@
 # Hi 👋 Iam Krishna Vamshi Kusuma
+<!-- _<p>Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies.<p/>_ -->
 
 
 # 💫 About Me:
