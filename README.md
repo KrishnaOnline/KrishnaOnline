@@ -1,9 +1,9 @@
 # Hi 👋 Iam Krishna Vamshi Kusuma
-<!-- _<p>Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies.<p/>_ -->
+<p>Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies.<p/>
 
 
-# 💫 About Me:
-🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff...
+<!-- # 💫 About Me:
+🔭 **I’m currently working on**<br>Full Stack Web Application Projects<br><br>👯 **I’m looking to collaborate on**<br>Full Stack Projects<br><br>🌱 **I’m currently learning**<br>Data Structures and Algorithms<br><br>💬 **Ask me about**<br>JavaScript, React.js, Node.js, DSA, and other Technical Stuff...  -->
 
 
 
