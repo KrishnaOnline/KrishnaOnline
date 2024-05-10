@@ -57,7 +57,7 @@
 
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaOnline&theme=highcontrast&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaOnline&theme=highcontrast&hide_border=false)<br/> -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <!--
 ## 🏆 GitHub Trophies
@@ -74,11 +74,11 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 -->
 
-<a href="https://github.com/KrishnaOnline">
+<!-- <a href="https://github.com/KrishnaOnline">
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaOnline&theme=high-contrast" />
 </a>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KrishnaOnline&icon=5&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=KrishnaOnline&icon=5&color=1)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
