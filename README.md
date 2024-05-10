@@ -1,5 +1,5 @@
 # Hi 👋 Iam Krishna Vamshi Kusuma
-<p>Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies.<p/>
+### *Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies*
 
 
 <!-- # 💫 About Me:
