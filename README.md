@@ -7,8 +7,16 @@
 
 
 
-# 🌐 Socials:
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/krishnavamshikusuma) 
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8E%AF%20Portfolio-002456?style=for-the-badge&logo=portfolio&logoColor=white)](https://krishnavamshi-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-vamshi-kusuma-11717b213/)
+[![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krishnavamshikusuma)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krishnavamshikusuma/)
+[![Twitter](https://img.shields.io/badge/twitter-232B2B?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Krishnavamshi_1)
+[![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_krishnavamshi)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F47D23?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
+
+<!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/krishnavamshikusuma) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/Krishnavamshi_1) 
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow&theme=light)](https://stackoverflow.com/users/20693132) 
 [![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/the_krishnavamshi) 
@@ -16,7 +24,7 @@
 
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,java,nodejs,react,nextjs,expressjs,mongodb,mysql,redux,tailwind,html,css,git,github,postman,docker,vite&theme=dark)
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
