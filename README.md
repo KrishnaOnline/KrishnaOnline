@@ -55,9 +55,9 @@
 
 
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaOnline&theme=highcontrast&hide_border=false)<br/>
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=KrishnaOnline&theme=highcontrast&hide_border=false)<br/>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaOnline&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 <!--
 ## 🏆 GitHub Trophies
