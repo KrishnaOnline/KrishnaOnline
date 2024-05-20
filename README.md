@@ -14,7 +14,7 @@
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/krishnavamshikusuma/)
 [![Twitter](https://img.shields.io/badge/twitter-232B2B?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Krishnavamshi_1)
 [![Instagram](https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the_krishnavamshi)
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-F47D23?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
+<!-- [![Stack Overflow](https://img.shields.io/badge/stackoverflow-F47D23?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20693132) 
 
 <!-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://linkedin.com/in/krishnavamshikusuma) 
 [![Twitter](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/Krishnavamshi_1) 
