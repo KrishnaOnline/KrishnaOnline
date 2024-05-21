@@ -8,6 +8,13 @@
 
 
 ## 🌐 Socials:
+<a href="https://krishnavamshi-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Portfolio-002456?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
+<a href="https://linkedin.com/in/krishna-vamshi-kusuma-11717b213/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://leetcode.com/krishnavamshikusuma" target="_blank"><img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://www.geeksforgeeks.org/user/krishnavamshikusuma/" target="_blank"><img src="https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksForGeeks"></a>
+<a href="https://twitter.com/Krishnavamshi_1" target="_blank"><img src="https://img.shields.io/badge/twitter-232B2B?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+<a href="https://instagram.com/the_krishnavamshi" target="_blank"><img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<!--
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8E%AF%20Portfolio-002456?style=for-the-badge&logo=portfolio&logoColor=white)](https://krishnavamshi-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-vamshi-kusuma-11717b213/)
 [![LeetCode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/krishnavamshikusuma)
